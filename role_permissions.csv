@@ -1,0 +1,43 @@
+﻿Feature/Role,Super Admin/Support Team,Org Admin,Org Operator,Block Admin,School Admin,Teacher
+Question Bank,,,,,,
+Upload Question Bank,Y,Y,Y,Y,Y,N
+View Question Bank,Y,Y,Y,Y,Y,N
+Edit Question in Question Bank,Y,Y,Y,Y,Y (added by them),N
+Delete Question in Question Bank,Y,Y,Y,Y,Y (added by them),N
+,,,,,,
+Quiz,,,,,,
+Create Quiz,N,N,N,N,N,Y
+View Quiz,N,N,N,N,N,Y
+Edit Quiz Properties,N,N,N,N,N,Y
+Edit Questions in QUIZ,N,N,N,N,N,Y
+Delete Quiz,Y,Y,Y,Y,N,N
+Delete Questions in Quiz,N,N,N,N,N,Y
+Conduct Quiz,N,N,N,N,N,Y
+,,,,,,
+Admin Users,,,,,,
+Create User,Y,Y,Y,Y,N,N
+List Users,Y,Y,Y,Y,N,N
+View User details,Y,Y,Y,Y,N,N
+Edit user,Y,Y,Y,Y,N,N
+Delete User,Y,Y,Y,Y,N,N
+,,,,,,
+School,,,,,,
+Create,Y,Y,Y,Y,N,N
+List,Y,Y,Y,Y,N,N
+Details,Y,Y,Y,Y,N,N
+Edit,Y,Y,Y,Y,N,N
+Delet,Y,Y,Y,Y,N,N
+,,,,,,
+School Admin,,,,,,
+Create,Y,Y,Y,Y,N,N
+List,Y,Y,Y,Y,N,N
+Details,Y,Y,Y,Y,N,N
+Edit,Y,Y,Y,Y,N,N
+Delete,Y,Y,Y,Y,N,N
+,,,,,,
+Teachers,,,,,,
+Create,Y,Y,Y,Y,Y,N
+List,Y,Y,Y,Y,Y,N
+Details,Y,Y,Y,Y,Y,N
+Edit,Y,Y,Y,Y,Y,N
+Delet,Y,Y,Y,Y,Y,N
